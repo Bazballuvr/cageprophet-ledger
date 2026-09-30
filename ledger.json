@@ -1,0 +1,702 @@
+{
+ "title": "The Cage Prophet · Public Ledger",
+ "account": {
+  "handle": "@TheCageProphet",
+  "url": "https://x.com/TheCageProphet"
+ },
+ "generated_at": "2026-09-30T08:04:33-07:00",
+ "generated_label": "Wed Sep 30, 2026, 8:04 AM PT",
+ "records": [
+  {
+   "season": "Season 1",
+   "calls": 5,
+   "winners": [
+    0,
+    0
+   ],
+   "method": [
+    0,
+    0
+   ],
+   "no_action": 0,
+   "pending": 5,
+   "label": "Season 1",
+   "subtitle": "UFC 332 · Sat Oct 3, 2026",
+   "note": "Picks go public Fri Oct 2 at ~12:00 PM PT"
+  },
+  {
+   "season": "Pre-season",
+   "calls": 19,
+   "winners": [
+    11,
+    7
+   ],
+   "method": [
+    4,
+    12
+   ],
+   "no_action": 1,
+   "pending": 0,
+   "label": "Pre-season",
+   "subtitle": "May 13 – Jul 25, 2026",
+   "note": null
+  }
+ ],
+ "calls": [
+  {
+   "season": "Season 1",
+   "n": null,
+   "date_iso": "2026-10-03",
+   "date": "Sat Oct 3, 2026",
+   "called": null,
+   "event": "UFC 332",
+   "fight": "Natalia Silva vs Wang Cong",
+   "fight_detail": "vacant women's flyweight title, 5 rds",
+   "call": null,
+   "call_quoted": false,
+   "call_source": null,
+   "sealed": true,
+   "confidence": null,
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": []
+  },
+  {
+   "season": "Season 1",
+   "n": null,
+   "date_iso": "2026-10-03",
+   "date": "Sat Oct 3, 2026",
+   "called": null,
+   "event": "UFC 332",
+   "fight": "Deiveson Figueiredo vs Payton Talbott",
+   "fight_detail": "bantamweight",
+   "call": null,
+   "call_quoted": false,
+   "call_source": null,
+   "sealed": true,
+   "confidence": null,
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": []
+  },
+  {
+   "season": "Season 1",
+   "n": null,
+   "date_iso": "2026-10-03",
+   "date": "Sat Oct 3, 2026",
+   "called": null,
+   "event": "UFC 332",
+   "fight": "King Green vs Esteban Ribovics",
+   "fight_detail": "lightweight",
+   "call": null,
+   "call_quoted": false,
+   "call_source": null,
+   "sealed": true,
+   "confidence": null,
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": []
+  },
+  {
+   "season": "Season 1",
+   "n": null,
+   "date_iso": "2026-10-03",
+   "date": "Sat Oct 3, 2026",
+   "called": null,
+   "event": "UFC 332",
+   "fight": "Roberto Soldić vs Khaos Williams",
+   "fight_detail": "welterweight",
+   "call": null,
+   "call_quoted": false,
+   "call_source": null,
+   "sealed": true,
+   "confidence": null,
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": []
+  },
+  {
+   "season": "Season 1",
+   "n": null,
+   "date_iso": "2026-10-03",
+   "date": "Sat Oct 3, 2026",
+   "called": null,
+   "event": "UFC 332",
+   "fight": "Ateba Gautier vs Roman Kopylov",
+   "fight_detail": "middleweight",
+   "call": null,
+   "call_quoted": false,
+   "call_source": null,
+   "sealed": true,
+   "confidence": null,
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": []
+  },
+  {
+   "season": "Pre-season",
+   "n": "19",
+   "date_iso": "2026-07-25",
+   "date": "Sat Jul 25, 2026",
+   "called": "Fri Jul 24, 8:29 AM",
+   "event": "UFC Fight Night: Ankalaev vs. Guskov (Abu Dhabi)",
+   "fight": "Magomed Ankalaev vs. Bogdan Guskov",
+   "fight_detail": null,
+   "call": "Pick: Magomed Ankalaev by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Magomed Ankalaev def. Bogdan Guskov, TKO (punches), R5 2:41",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2080676805933977734",
+     "url": "https://x.com/TheCageProphet/status/2080676805933977734"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "18",
+   "date_iso": "2026-07-25",
+   "date": "Sat Jul 25, 2026",
+   "called": "Fri Jul 24, 8:27 AM",
+   "event": "UFC Fight Night: Ankalaev vs. Guskov (Abu Dhabi)",
+   "fight": "Ramazan Temirov vs. Steve Erceg",
+   "fight_detail": null,
+   "call": "Pick: Steve Erceg by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Ramazan Temirov def. Steve Erceg, R1 4:21 (KO per Wikipedia; TKO per MMA Fighting)",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2080676223123107848",
+     "url": "https://x.com/TheCageProphet/status/2080676223123107848"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "17",
+   "date_iso": "2026-07-25",
+   "date": "Sat Jul 25, 2026",
+   "called": "Fri Jul 24, 8:25 AM",
+   "event": "UFC Fight Night: Ankalaev vs. Guskov (Abu Dhabi)",
+   "fight": "—",
+   "fight_detail": null,
+   "call": "Pick: Dulatov by R1 TKO",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Bout cancelled (Dulatov illness)",
+   "status": "no_action",
+   "method_status": "no_action",
+   "posts": [
+    {
+     "id": "2080675750508962139",
+     "url": "https://x.com/TheCageProphet/status/2080675750508962139"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "16",
+   "date_iso": "2026-07-18",
+   "date": "Sat Jul 18, 2026",
+   "called": "Sat Jul 18, 9:23 AM",
+   "event": "UFC Fight Night: du Plessis vs. Usman (OKC)",
+   "fight": "Chase Hooper vs. Mitch Ramirez",
+   "fight_detail": null,
+   "call": "PICK: Chase Hooper by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Chase Hooper def. Mitch Ramirez, submission (RNC), R1 2:15",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2078516102020452358",
+     "url": "https://x.com/TheCageProphet/status/2078516102020452358"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "15",
+   "date_iso": "2026-07-18",
+   "date": "Sat Jul 18, 2026",
+   "called": "Fri Jul 17, 9:06 AM",
+   "event": "UFC Fight Night: du Plessis vs. Usman (OKC)",
+   "fight": "Dricus du Plessis vs. Kamaru Usman",
+   "fight_detail": null,
+   "call": "Dricus Du Plessis by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Dricus du Plessis def. Kamaru Usman, UD (50-45, 49-46, 49-46)",
+   "status": "hit",
+   "method_status": "hit",
+   "posts": [
+    {
+     "id": "2078149243857145906",
+     "url": "https://x.com/TheCageProphet/status/2078149243857145906"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "14",
+   "date_iso": "2026-07-18",
+   "date": "Sat Jul 18, 2026",
+   "called": "Fri Jul 17, 9:05 AM",
+   "event": "UFC Fight Night: du Plessis vs. Usman (OKC)",
+   "fight": "Christian Leroy Duncan vs. Jared Cannonier",
+   "fight_detail": null,
+   "call": "Jared Cannonier by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Christian Leroy Duncan def. Jared Cannonier, UD (30-27, 30-27, 29-28)",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2078149178941960316",
+     "url": "https://x.com/TheCageProphet/status/2078149178941960316"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "13",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Thu Jul 9, 8:04 AM",
+   "event": "UFC 329",
+   "fight": "Gable Steveson vs. Elisha Ellison",
+   "fight_detail": null,
+   "call": "Steveson by finish, early.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Gable Steveson def. Elisha Ellison, KO (knees and punches), R1 2:31",
+   "status": "hit",
+   "method_status": "hit",
+   "posts": [
+    {
+     "id": "2075234562779795555",
+     "url": "https://x.com/TheCageProphet/status/2075234562779795555"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "12",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Thu Jul 9, 8:03 AM",
+   "event": "UFC 329",
+   "fight": "Robert Whittaker vs. Nikita Krylov",
+   "fight_detail": null,
+   "call": "Whittaker by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Robert Whittaker def. Nikita Krylov, TKO (jaw injury), R3 1:01",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2075234498955169893",
+     "url": "https://x.com/TheCageProphet/status/2075234498955169893"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "11",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Thu Jul 9, 7:58 AM",
+   "event": "UFC 329",
+   "fight": "Brandon Royval vs. Lone'er Kavanagh",
+   "fight_detail": null,
+   "call": "Royval by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Brandon Royval def. Lone'er Kavanagh, submission (RNC), R3 3:40",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2075233237820145712",
+     "url": "https://x.com/TheCageProphet/status/2075233237820145712"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "10",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Thu Jul 9, 7:53 AM",
+   "event": "UFC 329",
+   "fight": "Mario Bautista vs. Cory Sandhagen",
+   "fight_detail": null,
+   "call": "Sandhagen by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Mario Bautista def. Cory Sandhagen, UD (29-28 x3)",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2075231985614946412",
+     "url": "https://x.com/TheCageProphet/status/2075231985614946412"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "9",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Thu Jul 9, 7:47 AM",
+   "event": "UFC 329",
+   "fight": "Paddy Pimblett vs. Benoît Saint Denis",
+   "fight_detail": null,
+   "call": "Paddy by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Paddy Pimblett def. Benoît Saint Denis, technical submission (Peruvian necktie), R1 0:52",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2075230290549871024",
+     "url": "https://x.com/TheCageProphet/status/2075230290549871024"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "8",
+   "date_iso": "2026-07-11",
+   "date": "Sat Jul 11, 2026",
+   "called": "Sun Jun 28, 10:19 AM (thread)",
+   "event": "UFC 329",
+   "fight": "Max Holloway vs. Conor McGregor",
+   "fight_detail": null,
+   "call": "McGregor early finish implied: \"this night will not reach those later rounds… The pressure will be answered before it can build.\"",
+   "call_quoted": false,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Max Holloway def. Conor McGregor, TKO (knee injury), R1 1:09",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2071282288957268392",
+     "url": "https://x.com/TheCageProphet/status/2071282288957268392"
+    },
+    {
+     "id": "2071282291222200522",
+     "url": "https://x.com/TheCageProphet/status/2071282291222200522"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "7",
+   "date_iso": "2026-06-14",
+   "date": "Sun Jun 14, 2026",
+   "called": "Wed Jun 10, 10:02 AM (reply to @ufc)",
+   "event": "UFC Freedom 250",
+   "fight": "Josh Hokit vs. Derrick Lewis",
+   "fight_detail": null,
+   "call": "Josh Hokit's speed, power, and sharper tools will prove too much.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Josh Hokit def. Derrick Lewis, TKO (punches), R2 4:09",
+   "status": "hit",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2064755217942647135",
+     "url": "https://x.com/TheCageProphet/status/2064755217942647135"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "6",
+   "date_iso": "2026-06-14",
+   "date": "Sun Jun 14, 2026",
+   "called": "Fri Jun 5, 3:55 PM",
+   "event": "UFC Freedom 250 (White House)",
+   "fight": "Justin Gaethje vs. Ilia Topuria",
+   "fight_detail": null,
+   "call": "\"…the fourth round will bring the finish…\" (Gaethje)",
+   "call_quoted": false,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Justin Gaethje def. Ilia Topuria, TKO (corner stoppage), R4 5:00",
+   "status": "hit",
+   "method_status": "hit",
+   "posts": [
+    {
+     "id": "2063031986311360653",
+     "url": "https://x.com/TheCageProphet/status/2063031986311360653"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "5",
+   "date_iso": "2026-06-06",
+   "date": "Sat Jun 6, 2026",
+   "called": "Thu Jun 4, 4:38 PM",
+   "event": "UFC Fight Night: Muhammad vs. Bonfim",
+   "fight": "Gabriel Bonfim vs. Belal Muhammad",
+   "fight_detail": null,
+   "call": "Belal Muhammad defeats Gabriel Bonfim by decision.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Gabriel Bonfim def. Belal Muhammad, UD (50-45 x3)",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2062680546422186414",
+     "url": "https://x.com/TheCageProphet/status/2062680546422186414"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "4",
+   "date_iso": "2026-05-30",
+   "date": "Sat May 30, 2026",
+   "called": "Thu May 28, 7:59 PM",
+   "event": "UFC Fight Night: Song vs. Figueiredo (Macau)",
+   "fight": "Sergei Pavlovich vs. Tallison Teixeira",
+   "fight_detail": null,
+   "call": "This one ends with Pavlovich's hand raised.",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Sergei Pavlovich def. Tallison Teixeira, KO (punches), R1 0:39",
+   "status": "hit",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2060194202303230400",
+     "url": "https://x.com/TheCageProphet/status/2060194202303230400"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "3",
+   "date_iso": "2026-05-30",
+   "date": "Sat May 30, 2026",
+   "called": "Wed May 27, 7:07 PM / Thu May 28, 8:36 AM",
+   "event": "UFC Fight Night: Song vs. Figueiredo (Macau)",
+   "fight": "Alonzo Menifield vs. Zhang Mingyang",
+   "fight_detail": null,
+   "call": "Zhang Mingyang finishes Alonzo Menifield in Round 1 or 2",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Alonzo Menifield def. Zhang Mingyang, TKO (punches), R1 4:15",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2059818892688859297",
+     "url": "https://x.com/TheCageProphet/status/2059818892688859297"
+    },
+    {
+     "id": "2060022445688639649",
+     "url": "https://x.com/TheCageProphet/status/2060022445688639649"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "2",
+   "date_iso": "2026-05-16",
+   "date": "Sat May 16, 2026",
+   "called": "Thu May 14, 9:14 AM",
+   "event": "MVP MMA 1 (Netflix)",
+   "fight": "Mike Perry vs. Nate Diaz",
+   "fight_detail": null,
+   "call": "Diaz vs Perry. Official Prediction Diaz by Sub R2",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Mike Perry def. Nate Diaz, TKO (corner/doctor stoppage), end of R2",
+   "status": "miss",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2054958561680347207",
+     "url": "https://x.com/TheCageProphet/status/2054958561680347207"
+    }
+   ]
+  },
+  {
+   "season": "Pre-season",
+   "n": "1",
+   "date_iso": "2026-05-16",
+   "date": "Sat May 16, 2026",
+   "called": "Thu May 14, 9:08 AM",
+   "event": "UFC Fight Night: Allen vs. Costa",
+   "fight": "Arnold Allen vs. Melquizael Costa",
+   "fight_detail": null,
+   "call": "Allen vs Costa. Official Prediction Allen by Decision",
+   "call_quoted": true,
+   "call_source": "post",
+   "sealed": false,
+   "confidence": null,
+   "result": "Arnold Allen def. Melquizael Costa, UD (50-45, 50-45, 49-46)",
+   "status": "hit",
+   "method_status": "hit",
+   "posts": [
+    {
+     "id": "2054957070739464644",
+     "url": "https://x.com/TheCageProphet/status/2054957070739464644"
+    }
+   ]
+  }
+ ],
+ "notes": {
+  "judgment_calls": [
+   "#8 (McGregor) was implied inside a self-reply thread and later hedged on Jul 10 (\"Take McGregor if… Take Holloway if…\"). It stays in because the account counted it as a miss in its own Jul 13 grade (\"Fighter: 4–2. Method: 1–5\"), and our UFC 329 rows reproduce exactly that 4–2 / 1–5. Without it, the record would be Fighter 11–6, Method 4–11.",
+   "#7 (Hokit) was a reply to @ufc, not an original post, but the call is explicit.",
+   "#3 was posted twice (May 27 and May 28). It counts once."
+  ],
+  "not_graded": [
+   {
+    "post": "May 14 \"Ngannou vs Lins. Official Prediction\" / \"Rousey vs Carano\"",
+    "why": "The pick isn't in the text (probably in an image). The May 17 self-report (\"3 for 4… Got Allen, Ngannou, Ronda. Missed Nate Diaz\") can't be checked from text."
+   },
+   {
+    "post": "May 31 \"ledger turns its first page… Kai Asakura\"",
+    "why": "No pre-fight written pick found."
+   },
+   {
+    "post": "Jun 4 Allen vs Shahbazyan (id 2062755313309433856)",
+    "why": "The text is truncated before any pick."
+   },
+   {
+    "post": "Jun 4 Pereira vs Gane",
+    "why": "Conditional (\"If it stays standing, Pereira's edge is clear\"). For the record: Gane won by TKO, R2 1:27."
+   },
+   {
+    "post": "Jun 7 \"three clean hits and two misses\" (Vegas 118)",
+    "why": "A self-reported tally with no itemized picks."
+   },
+   {
+    "post": "Jul 10, Jul 16, Jul 21 \"Take X if… / Lean X…\" posts",
+    "why": "Hedged both ways."
+   },
+   {
+    "post": "Polls (May 15, May 26, May 28, Jun 5)",
+    "why": "Questions, not calls."
+   }
+  ],
+  "sources": [
+   {
+    "label": "UFC Fight Night: Allen vs. Costa, Wikipedia results table (cites UFC.com)",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Allen_vs._Costa"
+    ]
+   },
+   {
+    "label": "MVP MMA 1, Diaz vs Perry: AP https://apnews.com/article/nate-diaz-junior-dos-santos-3bb6c3b7be76e38ae89fdf585d69d584 ; ESPN https://global.espn.com/mma/story/_/id/48792831/mike-perry-batters-bloodies-nate-diaz-corner-stoppage ; Bloody Elbow https://bloodyelbow.com/2026/05/16/nate-diaz-vs-mike-perry-result-corner-stoppage-ends-bloodbath-mvp-mma-1-co-main-event/",
+    "links": [
+     "https://apnews.com/article/nate-diaz-junior-dos-santos-3bb6c3b7be76e38ae89fdf585d69d584",
+     "https://global.espn.com/mma/story/_/id/48792831/mike-perry-batters-bloodies-nate-diaz-corner-stoppage",
+     "https://bloodyelbow.com/2026/05/16/nate-diaz-vs-mike-perry-result-corner-stoppage-ends-bloodbath-mvp-mma-1-co-main-event/"
+    ]
+   },
+   {
+    "label": "UFC Fight Night: Song vs. Figueiredo (Macau), Wikipedia",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Song_vs._Figueiredo",
+     "https://www.ufc.com/athlete/deiveson-figueiredo"
+    ]
+   },
+   {
+    "label": "UFC Fight Night: Muhammad vs. Bonfim, Wikipedia",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Muhammad_vs._Bonfim"
+    ]
+   },
+   {
+    "label": "UFC Freedom 250, Wikipedia",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Freedom_250"
+    ]
+   },
+   {
+    "label": "UFC 329, Wikipedia (cites MMA Junkie/UFC.com)",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_329"
+    ]
+   },
+   {
+    "label": "UFC Fight Night: du Plessis vs. Usman, Wikipedia",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Fight_Night:_du_Plessis_vs._Usman"
+    ]
+   },
+   {
+    "label": "UFC Fight Night: Ankalaev vs. Guskov, Wikipedia",
+    "links": [
+     "https://en.wikipedia.org/wiki/UFC_Fight_Night:_Ankalaev_vs._Guskov",
+     "https://www.mmafighting.com/ufc/500676/ufc-abu-dhabi-results-ankalaev-vs-guskov"
+    ]
+   },
+   {
+    "label": "Call text: all_posts.json (X API pull, Sep 30, 2026). Links go to x.com/TheCageProphet/status/<id>.",
+    "links": []
+   }
+  ]
+ },
+ "source": "ledger.md"
+}
