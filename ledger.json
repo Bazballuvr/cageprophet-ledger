@@ -4,8 +4,8 @@
   "handle": "@TheCageProphet",
   "url": "https://x.com/TheCageProphet"
  },
- "generated_at": "2026-10-02T08:21:55-07:00",
- "generated_label": "Fri Oct 2, 2026, 8:21 AM PT",
+ "generated_at": "2026-10-02T13:16:31-07:00",
+ "generated_label": "Fri Oct 2, 2026, 1:16 PM PT",
  "records": [
   {
    "season": "Season 1",
@@ -22,7 +22,7 @@
    "pending": 5,
    "label": "Season 1",
    "subtitle": "UFC 332 · Sat Oct 3, 2026",
-   "note": "Picks go public Fri Oct 2 at ~12:00 PM PT"
+   "note": null
   },
   {
    "season": "Pre-season",
@@ -52,15 +52,20 @@
    "event": "UFC 332",
    "fight": "Natalia Silva vs Wang Cong",
    "fight_detail": "vacant women's flyweight title, 5 rds",
-   "call": null,
+   "call": "Natalia Silva by Decision",
    "call_quoted": false,
-   "call_source": null,
-   "sealed": true,
-   "confidence": null,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
    "result": "Pending",
    "status": "pending",
    "method_status": "pending",
-   "posts": []
+   "posts": [
+    {
+     "id": "2106111983577649396",
+     "url": "https://x.com/TheCageProphet/status/2106111983577649396"
+    }
+   ]
   },
   {
    "season": "Season 1",
@@ -71,15 +76,20 @@
    "event": "UFC 332",
    "fight": "Deiveson Figueiredo vs Payton Talbott",
    "fight_detail": "bantamweight",
-   "call": null,
+   "call": "Payton Talbott",
    "call_quoted": false,
-   "call_source": null,
-   "sealed": true,
-   "confidence": null,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "High",
    "result": "Pending",
    "status": "pending",
-   "method_status": "pending",
-   "posts": []
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2106111983577649396",
+     "url": "https://x.com/TheCageProphet/status/2106111983577649396"
+    }
+   ]
   },
   {
    "season": "Season 1",
@@ -90,15 +100,20 @@
    "event": "UFC 332",
    "fight": "King Green vs Esteban Ribovics",
    "fight_detail": "lightweight",
-   "call": null,
+   "call": "Esteban Ribovics",
    "call_quoted": false,
-   "call_source": null,
-   "sealed": true,
-   "confidence": null,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Low",
    "result": "Pending",
    "status": "pending",
-   "method_status": "pending",
-   "posts": []
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2106111983577649396",
+     "url": "https://x.com/TheCageProphet/status/2106111983577649396"
+    }
+   ]
   },
   {
    "season": "Season 1",
@@ -109,15 +124,20 @@
    "event": "UFC 332",
    "fight": "Roberto Soldić vs Khaos Williams",
    "fight_detail": "welterweight",
-   "call": null,
+   "call": "Roberto Soldić",
    "call_quoted": false,
-   "call_source": null,
-   "sealed": true,
-   "confidence": null,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
    "result": "Pending",
    "status": "pending",
-   "method_status": "pending",
-   "posts": []
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2106111983577649396",
+     "url": "https://x.com/TheCageProphet/status/2106111983577649396"
+    }
+   ]
   },
   {
    "season": "Season 1",
@@ -128,15 +148,20 @@
    "event": "UFC 332",
    "fight": "Ateba Gautier vs Roman Kopylov",
    "fight_detail": "middleweight",
-   "call": null,
+   "call": "Ateba Gautier",
    "call_quoted": false,
-   "call_source": null,
-   "sealed": true,
-   "confidence": null,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
    "result": "Pending",
    "status": "pending",
-   "method_status": "pending",
-   "posts": []
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2106111983577649396",
+     "url": "https://x.com/TheCageProphet/status/2106111983577649396"
+    }
+   ]
   },
   {
    "season": "Pre-season",
