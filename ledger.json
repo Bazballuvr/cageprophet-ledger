@@ -4,22 +4,22 @@
   "handle": "@TheCageProphet",
   "url": "https://x.com/TheCageProphet"
  },
- "generated_at": "2026-10-03T08:22:32-07:00",
- "generated_label": "Sat Oct 3, 2026, 8:22 AM PT",
+ "generated_at": "2026-10-03T17:55:46-07:00",
+ "generated_label": "Sat Oct 3, 2026, 5:55 PM PT",
  "records": [
   {
    "season": "Season 1",
    "calls": 5,
    "winners": [
     0,
-    0
+    1
    ],
    "method": [
     0,
     0
    ],
    "no_action": 0,
-   "pending": 5,
+   "pending": 4,
    "label": "Season 1",
    "subtitle": "UFC 332 · Sat Oct 3, 2026",
    "note": null
@@ -153,8 +153,8 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "Mid",
-   "result": "Pending",
-   "status": "pending",
+   "result": "—",
+   "status": "miss",
    "method_status": "none",
    "posts": [
     {
@@ -720,6 +720,12 @@
    {
     "label": "Call text: all_posts.json (X API pull, Sep 30, 2026). Links go to x.com/TheCageProphet/status/<id>.",
     "links": []
+   },
+   {
+    "label": "UFC 332 official results (Kyte)",
+    "links": [
+     "https://www.ufc.com/news/ufc-332-silva-vs-wang-results"
+    ]
    }
   ]
  },
