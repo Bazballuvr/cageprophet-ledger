@@ -4,14 +4,14 @@
   "handle": "@TheCageProphet",
   "url": "https://x.com/TheCageProphet"
  },
- "generated_at": "2026-10-03T17:55:46-07:00",
- "generated_label": "Sat Oct 3, 2026, 5:55 PM PT",
+ "generated_at": "2026-10-03T18:25:28-07:00",
+ "generated_label": "Sat Oct 3, 2026, 6:25 PM PT",
  "records": [
   {
    "season": "Season 1",
    "calls": 5,
    "winners": [
-    0,
+    1,
     1
    ],
    "method": [
@@ -19,7 +19,7 @@
     0
    ],
    "no_action": 0,
-   "pending": 4,
+   "pending": 3,
    "label": "Season 1",
    "subtitle": "UFC 332 · Sat Oct 3, 2026",
    "note": null
@@ -129,8 +129,8 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "Mid",
-   "result": "Pending",
-   "status": "pending",
+   "result": "—",
+   "status": "hit",
    "method_status": "none",
    "posts": [
     {
