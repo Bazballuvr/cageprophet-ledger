@@ -4,9 +4,26 @@
   "handle": "@TheCageProphet",
   "url": "https://x.com/TheCageProphet"
  },
- "generated_at": "2026-10-04T08:18:32-07:00",
- "generated_label": "Sun Oct 4, 2026, 8:18 AM PT",
+ "generated_at": "2026-10-09T13:08:48-07:00",
+ "generated_label": "Fri Oct 9, 2026, 1:08 PM PT",
  "records": [
+  {
+   "season": "Season 2",
+   "calls": 4,
+   "winners": [
+    0,
+    0
+   ],
+   "method": [
+    0,
+    0
+   ],
+   "no_action": 0,
+   "pending": 4,
+   "label": "Season 2",
+   "subtitle": "UFC Vegas 122 · Sat Oct 10, 2026",
+   "note": null
+  },
   {
    "season": "Season 1",
    "calls": 5,
@@ -43,6 +60,102 @@
   }
  ],
  "calls": [
+  {
+   "season": "Season 2",
+   "n": null,
+   "date_iso": "2026-10-10",
+   "date": "Sat Oct 10, 2026",
+   "called": null,
+   "event": "UFC Vegas 122",
+   "fight": "Brendan Allen vs Christian Leroy Duncan",
+   "fight_detail": "middleweight, 5 rds",
+   "call": "Brendan Allen by Decision",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": [
+    {
+     "id": "2108644919954780555",
+     "url": "https://x.com/TheCageProphet/status/2108644919954780555"
+    }
+   ]
+  },
+  {
+   "season": "Season 2",
+   "n": null,
+   "date_iso": "2026-10-10",
+   "date": "Sat Oct 10, 2026",
+   "called": null,
+   "event": "UFC Vegas 122",
+   "fight": "Matheus Camilo vs Jai Herbert",
+   "fight_detail": "lightweight",
+   "call": "Matheus Camilo",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2108644919954780555",
+     "url": "https://x.com/TheCageProphet/status/2108644919954780555"
+    }
+   ]
+  },
+  {
+   "season": "Season 2",
+   "n": null,
+   "date_iso": "2026-10-10",
+   "date": "Sat Oct 10, 2026",
+   "called": null,
+   "event": "UFC Vegas 122",
+   "fight": "Loopy Godinez vs Ketlen Souza",
+   "fight_detail": "strawweight; Souza 117, missed",
+   "call": "Loopy Godinez",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "High",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2108644919954780555",
+     "url": "https://x.com/TheCageProphet/status/2108644919954780555"
+    }
+   ]
+  },
+  {
+   "season": "Season 2",
+   "n": null,
+   "date_iso": "2026-10-10",
+   "date": "Sat Oct 10, 2026",
+   "called": null,
+   "event": "UFC Vegas 122",
+   "fight": "Malcolm Wellmaker vs Otari Tanzilovi",
+   "fight_detail": "bantamweight",
+   "call": "Malcolm Wellmaker",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Low",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2108644919954780555",
+     "url": "https://x.com/TheCageProphet/status/2108644919954780555"
+    }
+   ]
+  },
   {
    "season": "Season 1",
    "n": null,
