@@ -139,3 +139,13 @@ q.call::before,q.call::after{color:var(--gold)}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important;animation:none!important}}
 @media print{body{background:#fff;color:#000}.filters,.xbtn,.skip{display:none}}
 #calls:focus{outline:none}
+
+/* monthly seasons: per-event sub-grouping (Oct 9 2026) */
+.rec__events{list-style:none;margin:.8rem 0 0;padding:0;display:grid;gap:.35rem}
+.rec__events li{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .6rem;padding:.45rem .7rem;background:rgba(0,0,0,.25);border:1px solid var(--line);border-radius:8px;font-size:.9rem}
+.rec__ev{font:400 1.1rem/1 var(--display);letter-spacing:.05em;text-transform:uppercase;color:var(--text)}
+.rec__evdate{color:var(--muted);font-size:.8rem}
+.rec__evrec{margin-left:auto;color:#d6d2cb}
+.evgroup{margin:0 0 1.4rem}
+.evgroup__title{margin:0 0 .6rem;padding-left:.7rem;border-left:3px solid var(--gold-hi);font:400 1.2rem/1.1 var(--display);letter-spacing:.05em;text-transform:uppercase;color:var(--text)}
+.evgroup__title span{font:500 .8rem var(--body);letter-spacing:0;text-transform:none;color:var(--muted);margin-left:.4rem}

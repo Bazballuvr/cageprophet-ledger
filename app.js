@@ -14,19 +14,35 @@
   function rec(p) { return p[0] + "–" + p[1]; }
   function pct(p) { var t = p[0] + p[1]; return t ? Math.round((100 * p[0]) / t) + "%" : "—"; }
   function slug(s) { return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, ""); }
+  // "Fighter 4–1 · Method 1–0 · 4 pending" (mirrors event_line() in tools/update_ledger_site.py)
+  function eventLine(e) {
+    var bits = ["Fighter " + rec(e.winners), "Method " + rec(e.method)];
+    if (e.pending) bits.push(e.pending + " pending");
+    if (e.no_action) bits.push(e.no_action + " no action");
+    return bits.join(" · ");
+  }
+  var HEAD = '<thead><tr><th scope="col">Date</th><th scope="col">Event</th><th scope="col">Fight</th>' +
+    '<th scope="col">Call</th><th scope="col">Conf.</th><th scope="col">Result</th>' +
+    '<th scope="col">Status</th><th scope="col">X post</th></tr></thead>';
 
   function records(d) {
     return d.records.map(function (r) {
       var extra = [];
       if (r.no_action) extra.push(r.no_action + " no action");
       if (r.pending) extra.push(r.pending + " pending");
-      return '<article class="rec' + (r.season !== "Pre-season" ? " rec--live" : "") + '" aria-label="' + esc(r.label) + ' record">' +
+      var evs = (r.events && r.events.length) ? '<ul class="rec__events" aria-label="' + esc(r.label) + ' events">' +
+        r.events.map(function (e) {
+          return '<li><span class="rec__ev">' + esc(e.event) + '</span> <span class="rec__evdate">' + esc(e.date || "") +
+            '</span> <span class="rec__evrec">' + esc(eventLine(e)) + "</span></li>";
+        }).join("") + "</ul>" : "";
+      return '<article class="rec' + (r.status === "open" ? " rec--live" : "") + '" aria-label="' + esc(r.label) + ' record">' +
         '<h3 class="rec__title">' + esc(r.label) + '<span class="rec__sub">' + esc(r.subtitle) + "</span></h3>" +
         '<dl class="rec__grid">' +
         '<div><dt>Winners</dt><dd><span class="rec__num">' + rec(r.winners) + '</span><span class="rec__pct">' + pct(r.winners) + "</span></dd></div>" +
         '<div><dt>Method <small>(when called)</small></dt><dd><span class="rec__num">' + rec(r.method) + '</span><span class="rec__pct">' + pct(r.method) + "</span></dd></div>" +
         "</dl>" +
         (extra.length ? '<p class="rec__extra">' + esc(extra.join(" · ")) + "</p>" : "") +
+        evs +
         (r.note && r.pending ? '<p class="rec__note">' + esc(r.note) + ".</p>" : "") +
         "</article>";
     }).join("\n");
@@ -64,6 +80,18 @@
     return d.records.map(function (r) {
       var id = slug(r.season);
       var rows = d.calls.filter(function (c) { return c.season === r.season; });
+      if (r.events && r.events.length) {
+        return '<section class="tblwrap" aria-labelledby="t-' + id + '">' +
+          '<h3 id="t-' + id + '" class="tblwrap__title">' + esc(r.label) + " <span>" + esc(r.subtitle) + " · season " + esc(eventLine(r)) + "</span></h3>" +
+          r.events.map(function (e) {
+            var eid = id + "-" + slug(e.event);
+            var sub = [e.date, eventLine(e)].filter(Boolean).join(" · ");
+            return '<div class="evgroup" aria-labelledby="t-' + eid + '">' +
+              '<h4 id="t-' + eid + '" class="evgroup__title">' + esc(e.event) + " <span>" + esc(sub) + "</span></h4>" +
+              '<table class="ledger"><caption class="sr-only">' + esc(r.label) + ": " + esc(e.event) + " calls</caption>" + HEAD +
+              "<tbody>" + rows.filter(function (c) { return c.event === e.event; }).map(row).join("") + "</tbody></table></div>";
+          }).join("") + "</section>";
+      }
       return '<section class="tblwrap" aria-labelledby="t-' + id + '">' +
         '<h3 id="t-' + id + '" class="tblwrap__title">' + esc(r.label) + " <span>" + esc(r.subtitle) + "</span></h3>" +
         '<table class="ledger"><caption class="sr-only">' + esc(r.label) + " calls, newest first</caption>" +
@@ -82,6 +110,9 @@
       var on = f === "all" || tr.getAttribute("data-status") === f;
       tr.hidden = !on;
       if (on) shown++;
+    });
+    document.querySelectorAll(".evgroup").forEach(function (g) {
+      g.hidden = !g.querySelector("tbody tr:not([hidden])");
     });
     document.querySelectorAll(".tblwrap").forEach(function (s) {
       s.hidden = !s.querySelector("tbody tr:not([hidden])");
