@@ -5,12 +5,12 @@
   "url": "https://x.com/TheCageProphet"
  },
  "season_rule": "Seasons are monthly. Each season closes at the end of the month with a Season Finale receipts recap.",
- "generated_at": "2026-10-11T10:02:36-07:00",
- "generated_label": "Sun Oct 11, 2026, 10:02 AM PT",
+ "generated_at": "2026-10-16T13:02:31-07:00",
+ "generated_label": "Fri Oct 16, 2026, 1:02 PM PT",
  "records": [
   {
    "season": "October 2026 Season",
-   "calls": 9,
+   "calls": 13,
    "winners": [
     6,
     3
@@ -20,13 +20,31 @@
     1
    ],
    "no_action": 0,
-   "pending": 0,
+   "pending": 4,
    "label": "October Season",
    "status": "open",
    "month": "2026-10",
    "closes": "2026-10-31",
    "note": null,
    "events": [
+    {
+     "calls": 4,
+     "winners": [
+      0,
+      0
+     ],
+     "method": [
+      0,
+      0
+     ],
+     "no_action": 0,
+     "pending": 4,
+     "event": "UFC Fight Night Edmonton",
+     "date_iso": "2026-10-17",
+     "date": "Sat Oct 17, 2026",
+     "venue": "Rogers Place, Edmonton",
+     "card_status": "pending"
+    },
     {
      "calls": 4,
      "winners": [
@@ -64,7 +82,7 @@
      "card_status": "complete"
     }
    ],
-   "subtitle": "Oct 2026 · 2 events · open through Oct 31"
+   "subtitle": "Oct 2026 · 3 events · open through Oct 31"
   },
   {
    "season": "Pre-season",
@@ -89,6 +107,102 @@
   }
  ],
  "calls": [
+  {
+   "season": "October 2026 Season",
+   "n": null,
+   "date_iso": "2026-10-17",
+   "date": "Sat Oct 17, 2026",
+   "called": null,
+   "event": "UFC Fight Night Edmonton",
+   "fight": "Joaquin Buckley vs Mike Malott",
+   "fight_detail": "welterweight, 5 rds",
+   "call": "Mike Malott by KO/TKO",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "pending",
+   "posts": [
+    {
+     "id": "2111185410282135786",
+     "url": "https://x.com/TheCageProphet/status/2111185410282135786"
+    }
+   ]
+  },
+  {
+   "season": "October 2026 Season",
+   "n": null,
+   "date_iso": "2026-10-17",
+   "date": "Sat Oct 17, 2026",
+   "called": null,
+   "event": "UFC Fight Night Edmonton",
+   "fight": "Erin Blanchfield vs Jasmine Jasudavicius",
+   "fight_detail": "women's flyweight",
+   "call": "Erin Blanchfield",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "High",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2111185410282135786",
+     "url": "https://x.com/TheCageProphet/status/2111185410282135786"
+    }
+   ]
+  },
+  {
+   "season": "October 2026 Season",
+   "n": null,
+   "date_iso": "2026-10-17",
+   "date": "Sat Oct 17, 2026",
+   "called": null,
+   "event": "UFC Fight Night Edmonton",
+   "fight": "Marc-Andre Barriault vs Kyle Daukaus",
+   "fight_detail": "middleweight",
+   "call": "Kyle Daukaus",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2111185410282135786",
+     "url": "https://x.com/TheCageProphet/status/2111185410282135786"
+    }
+   ]
+  },
+  {
+   "season": "October 2026 Season",
+   "n": null,
+   "date_iso": "2026-10-17",
+   "date": "Sat Oct 17, 2026",
+   "called": null,
+   "event": "UFC Fight Night Edmonton",
+   "fight": "Mandel Nallo vs Nate Landwehr",
+   "fight_detail": "lightweight",
+   "call": "Mandel Nallo",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Low",
+   "result": "Pending",
+   "status": "pending",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2111185410282135786",
+     "url": "https://x.com/TheCageProphet/status/2111185410282135786"
+    }
+   ]
+  },
   {
    "season": "October 2026 Season",
    "n": null,
@@ -867,6 +981,13 @@
     "label": "UFC 332 official results (Kyte)",
     "links": [
      "https://www.ufc.com/news/ufc-332-silva-vs-wang-results"
+    ]
+   },
+   {
+    "label": "UFC Edmonton official weigh-ins (Oct 16)",
+    "links": [
+     "https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton",
+     "https://www.mmafighting.com/ufc/515968/ufc-edmonton-weigh-in-results-headliners-mike-malott-joaquin-buckley-cap-off-perfect-slate"
     ]
    },
    {
