@@ -5,22 +5,22 @@
   "url": "https://x.com/TheCageProphet"
  },
  "season_rule": "Seasons are monthly. Each season closes at the end of the month with a Season Finale receipts recap.",
- "generated_at": "2026-10-16T13:02:31-07:00",
- "generated_label": "Fri Oct 16, 2026, 1:02 PM PT",
+ "generated_at": "2026-10-17T20:19:08-07:00",
+ "generated_label": "Sat Oct 17, 2026, 8:19 PM PT",
  "records": [
   {
    "season": "October 2026 Season",
    "calls": 13,
    "winners": [
-    6,
-    3
+    8,
+    5
    ],
    "method": [
-    1,
+    2,
     1
    ],
    "no_action": 0,
-   "pending": 4,
+   "pending": 0,
    "label": "October Season",
    "status": "open",
    "month": "2026-10",
@@ -30,20 +30,20 @@
     {
      "calls": 4,
      "winners": [
-      0,
-      0
+      2,
+      2
      ],
      "method": [
-      0,
+      1,
       0
      ],
      "no_action": 0,
-     "pending": 4,
+     "pending": 0,
      "event": "UFC Fight Night Edmonton",
      "date_iso": "2026-10-17",
      "date": "Sat Oct 17, 2026",
      "venue": "Rogers Place, Edmonton",
-     "card_status": "pending"
+     "card_status": "complete"
     },
     {
      "calls": 4,
@@ -121,9 +121,9 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "Mid",
-   "result": "Pending",
-   "status": "pending",
-   "method_status": "pending",
+   "result": "—",
+   "status": "hit",
+   "method_status": "hit",
    "posts": [
     {
      "id": "2111185410282135786",
@@ -145,8 +145,8 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "High",
-   "result": "Pending",
-   "status": "pending",
+   "result": "—",
+   "status": "miss",
    "method_status": "none",
    "posts": [
     {
@@ -169,8 +169,8 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "Mid",
-   "result": "Pending",
-   "status": "pending",
+   "result": "—",
+   "status": "miss",
    "method_status": "none",
    "posts": [
     {
@@ -193,8 +193,8 @@
    "call_source": "ledger",
    "sealed": false,
    "confidence": "Low",
-   "result": "Pending",
-   "status": "pending",
+   "result": "—",
+   "status": "hit",
    "method_status": "none",
    "posts": [
     {
@@ -988,6 +988,13 @@
     "links": [
      "https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton",
      "https://www.mmafighting.com/ufc/515968/ufc-edmonton-weigh-in-results-headliners-mike-malott-joaquin-buckley-cap-off-perfect-slate"
+    ]
+   },
+   {
+    "label": "UFC Edmonton main event official result (UFC News on X, Oct 17)",
+    "links": [
+     "https://x.com/UFCNews/status/2111649550461247649",
+     "https://x.com/sherdogdotcom/status/2111649347733528594"
     ]
    },
    {
