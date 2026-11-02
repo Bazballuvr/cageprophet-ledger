@@ -5,8 +5,8 @@
   "url": "https://x.com/TheCageProphet"
  },
  "season_rule": "Seasons are monthly. Each season closes at the end of the month with a Season Finale receipts recap.",
- "generated_at": "2026-10-31T20:38:33-07:00",
- "generated_label": "Sat Oct 31, 2026, 8:38 PM PT",
+ "generated_at": "2026-11-02T09:54:38-08:00",
+ "generated_label": "Mon Nov 2, 2026, 9:54 AM PT",
  "records": [
   {
    "season": "October 2026 Season",
@@ -22,7 +22,7 @@
    "no_action": 0,
    "pending": 0,
    "label": "October Season",
-   "status": "open",
+   "status": "closed",
    "month": "2026-10",
    "closes": "2026-10-31",
    "note": null,
@@ -118,7 +118,7 @@
      "card_status": "complete"
     }
    ],
-   "subtitle": "Oct 2026 · 5 events · open through Oct 31"
+   "subtitle": "Oct 2026 · 5 events · closed Oct 31"
   },
   {
    "season": "Pre-season",
