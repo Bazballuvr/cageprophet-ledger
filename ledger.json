@@ -5,9 +5,49 @@
   "url": "https://x.com/TheCageProphet"
  },
  "season_rule": "Seasons are monthly. Each season closes at the end of the month with a Season Finale receipts recap.",
- "generated_at": "2026-11-02T09:54:38-08:00",
- "generated_label": "Mon Nov 2, 2026, 9:54 AM PT",
+ "generated_at": "2026-11-07T20:36:13-08:00",
+ "generated_label": "Sat Nov 7, 2026, 8:36 PM PT",
  "records": [
+  {
+   "season": "November 2026 Season",
+   "calls": 4,
+   "winners": [
+    4,
+    0
+   ],
+   "method": [
+    1,
+    1
+   ],
+   "no_action": 0,
+   "pending": 0,
+   "label": "November Season",
+   "status": "open",
+   "month": "2026-11",
+   "closes": "2026-11-30",
+   "note": null,
+   "events": [
+    {
+     "calls": 4,
+     "winners": [
+      4,
+      0
+     ],
+     "method": [
+      1,
+      1
+     ],
+     "no_action": 0,
+     "pending": 0,
+     "event": "UFC Fight Night: Cortes Acosta vs Walker",
+     "date_iso": "2026-11-07",
+     "date": "Sat Nov 7, 2026",
+     "venue": "Meta APEX, Las Vegas",
+     "card_status": "complete"
+    }
+   ],
+   "subtitle": "Nov 2026 · 1 event · open through Nov 30"
+  },
   {
    "season": "October 2026 Season",
    "calls": 19,
@@ -143,6 +183,102 @@
   }
  ],
  "calls": [
+  {
+   "season": "November 2026 Season",
+   "n": null,
+   "date_iso": "2026-11-07",
+   "date": "Sat Nov 7, 2026",
+   "called": null,
+   "event": "UFC Fight Night: Cortes Acosta vs Walker",
+   "fight": "Waldo Cortes Acosta vs Johnny Walker",
+   "fight_detail": "heavyweight, 5 rds",
+   "call": "Johnny Walker by Finish",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "—",
+   "status": "hit",
+   "method_status": "hit",
+   "posts": [
+    {
+     "id": "2118810661949964399",
+     "url": "https://x.com/TheCageProphet/status/2118810661949964399"
+    }
+   ]
+  },
+  {
+   "season": "November 2026 Season",
+   "n": null,
+   "date_iso": "2026-11-07",
+   "date": "Sat Nov 7, 2026",
+   "called": null,
+   "event": "UFC Fight Night: Cortes Acosta vs Walker",
+   "fight": "Tatiana Suarez vs Virna Jandiroba",
+   "fight_detail": "strawweight",
+   "call": "Tatiana Suarez",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "—",
+   "status": "hit",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2118810661949964399",
+     "url": "https://x.com/TheCageProphet/status/2118810661949964399"
+    }
+   ]
+  },
+  {
+   "season": "November 2026 Season",
+   "n": null,
+   "date_iso": "2026-11-07",
+   "date": "Sat Nov 7, 2026",
+   "called": null,
+   "event": "UFC Fight Night: Cortes Acosta vs Walker",
+   "fight": "Davey Grant vs Elijah Smith",
+   "fight_detail": "bantamweight",
+   "call": "Elijah Smith",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "Mid",
+   "result": "—",
+   "status": "hit",
+   "method_status": "none",
+   "posts": [
+    {
+     "id": "2118810661949964399",
+     "url": "https://x.com/TheCageProphet/status/2118810661949964399"
+    }
+   ]
+  },
+  {
+   "season": "November 2026 Season",
+   "n": null,
+   "date_iso": "2026-11-07",
+   "date": "Sat Nov 7, 2026",
+   "called": null,
+   "event": "UFC Fight Night: Cortes Acosta vs Walker",
+   "fight": "José Delano vs Murtazali Magomedov",
+   "fight_detail": "featherweight",
+   "call": "Murtazali Magomedov by Finish",
+   "call_quoted": false,
+   "call_source": "ledger",
+   "sealed": false,
+   "confidence": "High",
+   "result": "—",
+   "status": "hit",
+   "method_status": "miss",
+   "posts": [
+    {
+     "id": "2118810661949964399",
+     "url": "https://x.com/TheCageProphet/status/2118810661949964399"
+    }
+   ]
+  },
   {
    "season": "October 2026 Season",
    "n": null,
@@ -1086,6 +1222,34 @@
    }
   ],
   "sources": [
+   {
+    "label": "UFC Vegas 124 official results (UFC.com, Nov 7)",
+    "links": [
+     "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-results",
+     "https://www.ufc.com/news/ufc-fight-night-cortes-acosta-vs-walker-official-scorecards"
+    ]
+   },
+   {
+    "label": "UFC Vegas 124 official result posts (UFC News on X, Nov 7): Walker TKO R3 2:27 https://x.com/UFCNews/status/2119280586850521386 ; Suarez UD https://x.com/UFCNews/status/2119271951017603377 ; Smith KO R1 1:00 https://x.com/UFCNews/status/2119263721013039541 ; Magomedov UD 29-28 x3 https://x.com/UFCNews/status/2119213471925682525",
+    "links": [
+     "https://x.com/UFCNews/status/2119280586850521386",
+     "https://x.com/UFCNews/status/2119271951017603377",
+     "https://x.com/UFCNews/status/2119263721013039541",
+     "https://x.com/UFCNews/status/2119213471925682525"
+    ]
+   },
+   {
+    "label": "UFC Vegas 124 Magomedov vs Delano official stats",
+    "links": [
+     "http://ufcstats.com/fight-details/9f33576489a0370c"
+    ]
+   },
+   {
+    "label": "UFC Vegas 124 results recap (MMA Fighting, updated Nov 8, 2026, 4:14 AM UTC)",
+    "links": [
+     "https://www.mmafighting.com/ufc/519628/ufc-vegas-124-results-cortes-acosta-vs-walker"
+    ]
+   },
    {
     "label": "UFC Vegas 123 official results (UFC News on X, Oct 31)",
     "links": [
